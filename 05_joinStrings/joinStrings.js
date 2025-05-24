@@ -8,16 +8,16 @@
 */
 
 // Step 2: Do
-let firstName = "Carlos";
-let lastName = "Stevenson";
-let thisYear = 1965;
-let birthYear = 1947;
+const firstName = "Carlos";
+const lastName = "Stevenson";
+const thisYear = 1965;
+const birthYear = 1947;
 
 // Step 3: Optimize
-let fullName = firstName + " " + lastName;
-let age = thisYear - birthYear;
+const fullName = firstName + " " + lastName;
+const age = thisYear - birthYear;
 
-let greeting = "Hello! My name is " + fullName + " and I am " + age + " years old."
+const greeting = "Hello! My name is " + fullName + " and I am " + age + " years old."
 
 
 
